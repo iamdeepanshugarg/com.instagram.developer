@@ -1,4 +1,6 @@
-# com.instagram.developer
+# ![](https://external-content.duckduckgo.com/ip3/www.instagram.com.ico) com.instagram.developer
+
+## For experimentation, go to [com.instagram.developer/wiki](https://github.com/iamdeepanshugarg/com.instagram.developer/wiki)
 
 ### What The Hell is This?
 **MetaConfig Settings** are *customizable parameters* within the Instagram app. For this to work, you must have Instagram with *internal settings* or Developer panel enabled. The [com.instagram.developer](https://github.com/iamdeepanshugarg/com.instagram.developer) is a project to provide you with **Developer Options Page** that are only provided to Instagram *employees*. With [com.instagram.developer](https://github.com/iamdeepanshugarg/com.instagram.developer), you can access internal settings and can try out many new features that are in very early stage. However, be cautious—using [com.instagram.developer](https://github.com/iamdeepanshugarg/com.instagram.developer) comes with risks. It *may crash unexpectedly* if you perform weird experiments and could contain vulnerabilities or bugs. For regular use, it’s recommended to stick with the Official [com.instagram.android](https://play.google.com/store/apps/details?id=com.instagram.android) app available on the **Google Play Store**.
