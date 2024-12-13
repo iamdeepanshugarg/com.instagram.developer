@@ -1,4 +1,4 @@
-# ![](https://external-content.duckduckgo.com/ip3/www.instagram.com.ico) com.instagram.developer
+# com.instagram.developer
 
 ## For experimentation, go to [com.instagram.developer/wiki](https://github.com/iamdeepanshugarg/com.instagram.developer/wiki)
 
