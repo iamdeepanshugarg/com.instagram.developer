@@ -4,18 +4,15 @@
 
 ### Disclaimer and Terms of Use
 The [com.instagram.developer](https://github.com/iamdeepanshugarg/com.instagram.developer) APK is provided strictly for **educational and research purposes**. It is intended to help users *explore and understand Instagram's internal settings in a responsible and lawful manner*. By accessing or using this APK, you agree to the following conditions:
-
-**Educational Use Only:** This APK is intended for learning and research purposes. It must not be used for any unauthorized or malicious activity.
-
-**No Further Modifications:** Users are strictly prohibited from modifying, altering, reverse-engineering, or redistributing this APK in any form.
-
-**Compliance with Laws and Policies:** Users must adhere to all applicable laws, regulations, and Instagram’s terms of service when using this APK.
+- **Educational Use Only:** This APK is intended for learning and research purposes. It must not be used for any unauthorized or malicious activity.
+- **No Further Modifications:** Users are strictly prohibited from modifying, altering, reverse-engineering, or redistributing this APK in any form.
+- **Compliance with Laws and Policies:** Users must adhere to all applicable laws, regulations, and Instagram’s terms of service when using this APK.
 <br><br>
 ### Limitation of Liability
 I, as the provider of this information, am *not liable* for any issues, damages, or consequences arising from the use, misuse, or improper handling of the [com.instagram.developer](https://github.com/iamdeepanshugarg/com.instagram.developer) APK. Users assume *full responsibility* for their actions and any risks associated with its use.
 
 > [!WARNING] 
-> **Important Notice:** This APK is not affiliated with or endorsed by Instagram or its parent company. Use of this software is at your own discretion and risk. For regular and safe use of Instagram, it is strongly recommended to download the Official application from trusted sources like the Google Play Store.
+> **Important Notice:** This APK is not affiliated with or endorsed by Instagram or its parent company. Use of this software is at your own discretion and risk. For regular and safe use of Instagram, it is strongly recommended to download the [Official application](https://play.google.com/store/apps/details?id=com.instagram.android) from trusted sources like the **Google Play Store**.
 
 This disclaimer is issued to *safeguard both the user and the provider*, ensuring *clarity of intent* and *responsible use*.
 <br><br>
