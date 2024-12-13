@@ -1,7 +1,9 @@
+<img src="https://img.icons8.com/?size=256&id=Xy10Jcu1L2Su&format=png" width="64" align="left" />
+
 ## com.instagram.developer
 
-### For experimentation, go to [com.instagram.developer/wiki](https://github.com/iamdeepanshugarg/com.instagram.developer/wiki)
-<br><br>
+### <img src="https://cdn-icons-png.flaticon.com/128/9959/9959604.png" width="32" align="left" />For experimentation, go to [com.instagram.developer/wiki](https://github.com/iamdeepanshugarg/com.instagram.developer/wiki)
+
 ### Disclaimer and Terms of Use
 The [com.instagram.developer](https://github.com/iamdeepanshugarg/com.instagram.developer) APK is provided strictly for **educational and research purposes**. It is intended to help users *explore and understand Instagram's internal settings in a responsible and lawful manner*. By accessing or using this APK, you agree to the following conditions:
 - **Educational Use Only:** This APK is intended for learning and research purposes. It must not be used for any unauthorized or malicious activity.
