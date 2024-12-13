@@ -17,3 +17,9 @@ Instagram app ([com.instagram.android](https://play.google.com/store/apps/detail
 
 ### Advise for Modded APKs
 **Modded APKs** are *unofficial modified versions* of the original Instagram application created by *third-party developers* who alter the original app to include features (iOS, themes, interface customization or additional) or remove restrictions that are not available in the Official Instagram app. It may contain *third-party ads or links*, *malware*, or *spyware* and can potentially *harvest personal data*, including *login credentials*. [com.instagram.developer](https://github.com/iamdeepanshugarg/com.instagram.developer) comes with *no modification* other than raw developer tools, enhancing your privacy and security. But, Original [com.instagram.android](https://play.google.com/store/apps/details?id=com.instagram.android) installed from **Google Play Store** will always be the most secured.
+
+### How The Hell I can Trust com.instagram.developer?
+**Upload and scan** [com.instagram.developer](https://github.com/iamdeepanshugarg/com.instagram.developer) on [VirusTotal](www.virustotal.com) to check the APK file before installing it, it will scan the file with *multiple antivirus engines* or decompile [com.instagram.developer](https://github.com/iamdeepanshugarg/com.instagram.developer) yourself using [jadx](https://github.com/skylot/jadx).
+
+### Alternatives to com.instagram.developer?
+[Instafusion](https://github.com/salmanmemon7/Instafusion-)
