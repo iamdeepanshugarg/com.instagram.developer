@@ -1,4 +1,4 @@
-<img src="https://img.icons8.com/?size=256&id=Xy10Jcu1L2Su&format=png" width="64" align="left" />
+<img src="https://img.icons8.com/?size=256&id=Xy10Jcu1L2Su&format=png" width="32" align="left" />
 
 ## com.instagram.developer
 
